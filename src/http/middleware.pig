@@ -1,4 +1,5 @@
-(module middleware
+(module http/middleware
+  "Assorted small utility middlewares"
   (:import [str :from piglet:string]))
 
 (defn wrap-log [handler]

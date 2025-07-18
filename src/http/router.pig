@@ -1,4 +1,4 @@
-(module router
+(module http/router
   "Bare bones routing functionality"
   (:import
     [str :from piglet:string]))

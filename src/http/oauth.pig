@@ -1,4 +1,4 @@
-(module oauth
+(module http/oauth
   "OAuth2 code exchange")
 
 (defn query-params [kvs]

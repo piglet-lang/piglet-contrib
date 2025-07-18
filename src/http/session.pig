@@ -1,4 +1,4 @@
-(module session
+(module http/session
   "HTTP session handling"
   (:import
     [str :from piglet:string]
