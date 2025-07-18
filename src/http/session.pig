@@ -25,7 +25,7 @@
     (.connect c)
     c))
 
-(def session-key "zenith-session")
+(def session-key "piglet-session")
 
 (defn rand-session-id []
   (apply str
