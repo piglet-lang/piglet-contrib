@@ -32,5 +32,6 @@
     ([& children]
       (into [:header] children)))
 
+  (all-styles)
 
   )
